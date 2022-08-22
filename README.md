@@ -1,1 +1,1 @@
-# -codejam-eldritch-2022
+# codejam-eldritch-2022
